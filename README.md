@@ -27,7 +27,7 @@
 
 ## Solution ##
 
-
+<img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Biscuit-Classifier/blob/main/resources/Biscuit%20Classification.png">
 
 - - - -
 

@@ -39,7 +39,7 @@
 
 ### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/XMIlr0LFF2U" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Biscuit-Classifier/blob/main/resources/Biscuit%20Classification.png?raw=true"/></a> 
+<a href="https://youtu.be/XMIlr0LFF2U" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Biscuit-Classifier/blob/main/resources/Biscuit%20Classifier.png"/></a> 
 
 - - - -
 

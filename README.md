@@ -1,4 +1,4 @@
-# EDGE-AI-powered-Biscuit-Classifier
+# EDGE AI powered Biscuit Classifier
 
 ## Table of Contents ##
 

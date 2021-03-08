@@ -71,7 +71,7 @@ We have taken thousands of Images of the Biscuit in different lighting condition
 
 ### Evaluation of the Proposed Solution ###
 
-<a href="https://youtu.be/TtWulpUtjoE" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Biscuit-Classifier/blob/main/resources/Biscuit%20Classifier.png"/></a> 
+<a href="https://youtu.be/BtXTnGkz9Lw" target="_blank"><img src="https://github.com/Karthikkannan-AI/EDGE-AI-powered-Biscuit-Classifier/blob/main/resources/Biscuit%20Classifier.png"/></a> 
 
 - - - -
 
